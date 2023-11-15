@@ -1,4 +1,4 @@
-
+//new
 // let ask = prompt("write your name")
 //  if (ask.length % 2 == 0) {
 //     alert("your name are accepted")
